@@ -1,0 +1,20 @@
+.contiene-canvas{
+    position:relative;
+  }
+  #canvas-1{
+    border: 2px solid red;
+    position: absolute;
+  }
+  #canvas-2{
+    border: 2px solid blue;
+    position: absolute;
+  }
+  .leyendas{
+    position: absolute;
+  }
+  #leyenda-1{
+    top:20px;
+  }
+  #leyenda-2{
+    top:70px;
+  }
